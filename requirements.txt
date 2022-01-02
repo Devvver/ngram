@@ -1,0 +1,7 @@
+newspaper==0.1.0.7
+newspaper3k==0.2.8
+pymorphy2==0.9.1
+pymystem3==0.2.0
+scikit_learn==1.0.2
+six==1.15.0
+stop_words==2018.7.23
